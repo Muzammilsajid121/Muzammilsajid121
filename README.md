@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Mobile App Development
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: pc.21695.muzammil@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 😄 My website: https://pc21695muzammil.wixsite.com/my-site
 - ⚡ Fun fact: Consistent
   
 ### Connect with me:
