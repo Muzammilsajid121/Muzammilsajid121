@@ -1,7 +1,10 @@
-<!-- This is a Banner -->
+
 <p align="center">
-    <img alt="Coding" width="800" height="350" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*vowtRZE_wvyVA7CB">
+    <img alt="Coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*DV3QCO3-BxIJ1OG8v8SIPQ.png"  >
 </p>
+
+<!--     <img alt="Coding" width="800" height="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*vowtRZE_wvyVA7CB"> -->
+
 
 <h1 align="center">Hi 👋, I'm Muzammil Sajid</h1>
 <h3 align="center">A passionate Flutter developer.</h3>
