@@ -1,51 +1,62 @@
+<div align="center">
 
-<p align="center">
-    <img alt="Coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*DV3QCO3-BxIJ1OG8v8SIPQ.png"  >
-</p>
+  <!-- Hero Banner SVG (Tailored Neo-Brutalist & Editorial Paper Theme) -->
+  <a href="https://github.com/Muzammilsajid121">
+    <img src="https://raw.githubusercontent.com/Muzammilsajid121/muzammil_port/main/assets/github_banner.svg" alt="Muzammil Sajid Banner" width="100%" />
+  </a>
 
-<!--     <img alt="Coding" width="800" height="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*vowtRZE_wvyVA7CB"> -->
+  <br/><br/>
 
+  <!-- Quick Action & Trust Badges -->
+  <p align="center">
+    <a href="https://play.google.com/store/apps/developer?id=Code+To+Flutter" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Play-100K%2B_Installs-26241C?style=for-the-badge&logo=googleplay&logoColor=34A853&labelColor=F7E8A8" alt="Google Play Installs" />
+    </a>
+    <a href="https://www.linkedin.com/in/muzammilsajid31/" target="_blank">
+      <img src="https://img.shields.io/badge/Fiverr-5.0%E2%98%85_Verified_Orders-26241C?style=for-the-badge&logo=fiverr&logoColor=1DBF73&labelColor=9DB68C" alt="Fiverr 5.0 Star Feedback" />
+    </a>
+    <a href="https://github.com/Muzammilsajid121/arcore_flutter_plus" target="_blank">
+      <img src="https://img.shields.io/badge/ARCore-Plugin_Author-26241C?style=for-the-badge&logo=google&logoColor=E0705A&labelColor=F7E8A8" alt="ARCore Plugin Author" />
+    </a>
+    <a href="https://www.linkedin.com/in/muzammilsajid31/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-26241C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=9DB68C" alt="LinkedIn" />
+    </a>
+    <a href="mailto:pc.21695.muzammil@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get_In_Touch-26241C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F7E8A8" alt="Email" />
+    </a>
+  </p>
 
-<h1 align="center">Hi 👋, I'm Muzammil Sajid</h1>
-<h3 align="center">A passionate Flutter developer.</h3>
+  <!-- Metrics Strip SVG -->
+  <a href="https://play.google.com/store/apps/developer?id=Code+To+Flutter">
+    <img src="https://raw.githubusercontent.com/Muzammilsajid121/muzammil_port/main/assets/github_metrics_strip.svg" alt="Muzammil Sajid Production Metrics" width="100%" />
+  </a>
 
+</div>
 
-<!-- This is a single-line GIF comment -->
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">
+<br/>
 
-- 🔭 I’m currently working on **Flutter**
+---
 
-- 👯 I’m looking to collaborate on **Mobile App Development**
+### 📌 About Me
 
-- 💬 Ask me anything about Flutter
+> **"I build Flutter apps that make it to production."**
 
-- 📫 How to reach me **pc.21695.muzammil@gmail.com**
+I am **Muzammil Sajid**, a **Flutter Developer & Mobile App Engineer** and **Computer Science Graduate (2025)** from Pakistan. I engineer high-performance mobile applications published under **"Code To Flutter"** on Google Play Store — including **Surah Yaseen** with **100,000+ organic downloads** and top **4.8★** rated productivity utilities.
 
-- 📝 I regularly write articles on [https://medium.com/@pc.21690.muzammil](https://medium.com/@pc.21690.muzammil)
-  
-- 😄 My website: **https://pc21695muzammil.wixsite.com/my-site**
+* 🎯 **Performance Obsessed:** Sub-16ms 60 FPS animations, zero memory leaks, and instant cold-start persistence (<250ms via Hive / SQLite).
+* 🏗️ **Clean Architecture:** Strict separation of Presentation, Logic (BLoC/Cubit), and Data layers for battle-tested maintainability.
+* 💰 **Yield Optimization:** Deep expertise in mobile advertising engineering (AdMob mediation, raising Show Rates from 38% to 85%+, and 3.5x eCPM recovery).
+* 🌍 **International Delivery:** 20+ international client orders successfully delivered worldwide, including 15+ 5.0★ verified reviews on Fiverr.
 
-- ⚡ Fun fact **Consistent**
+<br/>
 
+```bash
+muzammil@dev:~$ ./whoami.sh --verbose
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muzammilsajid31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muzammilsajid31" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100076411565686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100076411565686" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/muzammilsajid31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muzammilsajid31/" height="30" width="40" /></a>
-<a href="https://medium.com/@pc.21690.muzammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pc.21690.muzammil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucepavvinfv8nurnj11raqmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucepavvinfv8nurnj11raqmw" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammilsajid121&show_icons=true&locale=en&layout=compact" alt="muzammilsajid121" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammilsajid121&show_icons=true&locale=en" alt="muzammilsajid121" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsajid121&" alt="muzammilsajid121" /></p>
+[+] NAME:        Muzammil Sajid
+[+] ROLE:        Flutter Developer & Mobile App Engineer
+[+] EDUCATION:   BS Computer Science (Class of 2025)
+[+] BRAND:       "Code To Flutter" (Google Play Store)
+[+] SPECIALTIES: Clean Architecture (BLoC), AdMob Monetization, ARCore & 3D, Offline-First Sync
+[+] STACK:       Flutter, Dart, Kotlin, BLoC, Riverpod, Hive, Dio, Firebase, SQLite
+[+] STATUS:      Available for High-Impact Projects & Remote Engineering Roles
